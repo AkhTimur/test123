@@ -40,7 +40,14 @@ plugins:
       lang: 
         - en
         - ru
+  - neoteroi.mkdocsoad
+  - swagger-ui-tag
 
 extra:
   version:
     provider: mike
+
+source:
+  - [OAD(./docs/swagger.json)]
+
+  
