@@ -16,11 +16,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-
-```html
-<swagger-ui src="https://petstore.swagger.io/v2/swagger.json"/>
-```
-
-## Swagger UI
-
-<swagger-ui src="https://petstore.swagger.io/v2/swagger.json"/>
